@@ -24,7 +24,7 @@ Simply open the `index.html` file in your browser.
 
 
 ```javascript
-const API_KEY = "YOUR_API_KEY";
+const API_KEY = "299dfda9c8a24f0282855252250602";
 ```
 
 ## 📸 Screenshots
