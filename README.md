@@ -10,7 +10,7 @@ A simple weather application that provides real-time weather updates for any cit
 
 ## 🛠 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript
-- **API:** OpenWeatherMap (or any other weather API of your choice)
+- **API:** api.OpenWeatherApi
 
 ## 🚀 Getting Started
 ### 1. Clone the Repository
@@ -36,7 +36,7 @@ const API_KEY = "299dfda9c8a24f0282855252250602";
 - User location-based weather updates
 
 ## 📌 Credits
-- Weather data provided by OpenWeatherMap API
+- Weather data provided by api.weatheapi.com
 
 ## 👨‍💻 Author
 **GAURAV SINGH**  
